@@ -1,0 +1,889 @@
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.AssemblyReference.cache
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.SuggestedBindingRedirects.cache
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Form1.resources
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Properties.Resources.resources
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinentInfo.resources
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.GenerateResource.cache
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CoreCompileInputs.cache
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.exe.config
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.exe
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.pdb
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Africa.resources
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Australia.resources
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.exe
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.pdb
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Asia.resources
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.NorthAmerica.resources
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.SouthAmerica.resources
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Europe.resources
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Core.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Identity.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Buffers.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Data.SqlClient.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.Data.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.AccessControl.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Permissions.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Json.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.ValueTuple.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Core.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Identity.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Buffers.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Data.SqlClient.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.Data.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.AccessControl.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Permissions.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Json.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.ValueTuple.xml
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\OneDrive\Dokumente\Jahresprojekt APR 2022_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CopyComplete
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.exe.config
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.exe
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.pdb
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Core.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Identity.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Buffers.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Data.SqlClient.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.Data.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Numerics.Vectors.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.AccessControl.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Permissions.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Json.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.ValueTuple.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Core.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Identity.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Buffers.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Data.SqlClient.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.Data.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Numerics.Vectors.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.AccessControl.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Permissions.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Json.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.ValueTuple.xml
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.AssemblyReference.cache
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Africa.resources
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Asia.resources
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Australia.resources
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Europe.resources
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Properties.Resources.resources
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinentInfo.resources
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.GenerateResource.cache
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CoreCompileInputs.cache
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CopyComplete
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.exe
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.pdb
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.SuggestedBindingRedirects.cache
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.AssemblyReference.cache
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Africa.resources
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Asia.resources
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Australia.resources
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Europe.resources
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Properties.Resources.resources
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinentInfo.resources
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.GenerateResource.cache
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CoreCompileInputs.cache
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.exe
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.pdb
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.exe.config
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.exe
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.pdb
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Core.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Identity.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Buffers.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Data.SqlClient.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.Data.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Numerics.Vectors.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.AccessControl.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Permissions.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Json.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.ValueTuple.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Core.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Identity.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Buffers.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Data.SqlClient.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.Data.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Numerics.Vectors.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.AccessControl.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Permissions.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Json.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\System.ValueTuple.xml
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CopyComplete
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.SuggestedBindingRedirects.cache
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinents.resources
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowAllCountries.resources
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.North_America.resources
+E:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.South_America.resources
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinents.resources
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowAllCountries.resources
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.North_America.resources
+D:\3IT\APR\Präsentation Jahresprojekt 22_23\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.South_America.resources
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.AssemblyReference.cache
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.SuggestedBindingRedirects.cache
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Africa.resources
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Asia.resources
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Australia.resources
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Europe.resources
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinents.resources
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowAllCountries.resources
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.North_America.resources
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Properties.Resources.resources
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinentInfo.resources
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.South_America.resources
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.GenerateResource.cache
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CoreCompileInputs.cache
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.exe
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.pdb
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.exe.config
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.exe
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.pdb
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Core.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Identity.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Buffers.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Data.SqlClient.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.Data.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Numerics.Vectors.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.AccessControl.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Permissions.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Json.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.ValueTuple.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Core.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Identity.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Buffers.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Data.SqlClient.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.Data.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Numerics.Vectors.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.AccessControl.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Permissions.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Json.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.ValueTuple.xml
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\3IT\APR\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CopyComplete
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.exe.config
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.exe
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.pdb
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Core.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Identity.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Buffers.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Data.SqlClient.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.Data.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.AccessControl.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Permissions.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Json.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.ValueTuple.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Core.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Identity.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Buffers.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Data.SqlClient.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.Data.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.AccessControl.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Permissions.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Json.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\System.ValueTuple.xml
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.AssemblyReference.cache
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.SuggestedBindingRedirects.cache
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Africa.resources
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Asia.resources
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Australia.resources
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Europe.resources
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinents.resources
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowAllCountries.resources
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.North_America.resources
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Properties.Resources.resources
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinentInfo.resources
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.South_America.resources
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.GenerateResource.cache
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CoreCompileInputs.cache
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CopyComplete
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.exe
+C:\Users\luker\Downloads\APR_Resch20231stSemester\Abgabe APR\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.pdb
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.exe.config
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.exe
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.pdb
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Core.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Identity.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Buffers.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Data.SqlClient.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.Data.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Numerics.Vectors.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.AccessControl.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Permissions.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Json.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.ValueTuple.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Core.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Identity.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Buffers.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Data.SqlClient.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.Data.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Numerics.Vectors.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.AccessControl.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Permissions.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Json.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\System.ValueTuple.xml
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.AssemblyReference.cache
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.SuggestedBindingRedirects.cache
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Africa.resources
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Asia.resources
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Australia.resources
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Europe.resources
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinents.resources
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowAllCountries.resources
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.North_America.resources
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Properties.Resources.resources
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinentInfo.resources
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.South_America.resources
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.GenerateResource.cache
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CoreCompileInputs.cache
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CopyComplete
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.exe
+D:\APR Jahresprojekt\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.pdb
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.exe.config
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.exe
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\YearsProjectResch.pdb
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Core.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Identity.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Buffers.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Data.SqlClient.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.Data.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Numerics.Vectors.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.AccessControl.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Permissions.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Json.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.ValueTuple.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Core.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Azure.Identity.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Buffers.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Data.SqlClient.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Memory.Data.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Numerics.Vectors.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.AccessControl.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Permissions.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Text.Json.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\System.ValueTuple.xml
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.AssemblyReference.cache
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.SuggestedBindingRedirects.cache
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Africa.resources
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Asia.resources
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Australia.resources
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Europe.resources
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinents.resources
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowAllCountries.resources
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.North_America.resources
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.Properties.Resources.resources
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinentInfo.resources
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.South_America.resources
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.GenerateResource.cache
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CoreCompileInputs.cache
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CopyComplete
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.exe
+C:\Dokumente\3 IT\apr\JahresprojektFertigMachen2023\YearsProjectResch\YearsProjectResch\obj\Debug\YearsProjectResch.pdb
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\YearsProjectResch.exe.config
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\YearsProjectResch.exe
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\YearsProjectResch.pdb
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Azure.Core.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Azure.Identity.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Buffers.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Data.SqlClient.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Memory.Data.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Memory.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Numerics.Vectors.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Security.AccessControl.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Security.Permissions.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Text.Json.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.ValueTuple.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Azure.Core.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Azure.Identity.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Buffers.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Data.SqlClient.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Memory.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Memory.Data.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Numerics.Vectors.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Security.AccessControl.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Security.Permissions.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Text.Json.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\System.ValueTuple.xml
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.AssemblyReference.cache
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.SuggestedBindingRedirects.cache
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.Africa.resources
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.Asia.resources
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.Australia.resources
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.Europe.resources
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinents.resources
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.ShowAllCountries.resources
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.North_America.resources
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.Properties.Resources.resources
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinentInfo.resources
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.South_America.resources
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.GenerateResource.cache
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CoreCompileInputs.cache
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CopyComplete
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.exe
+D:\APR Jahresprojekt\YearsProjectResch - funktioniert mit SQL KLasse\YearsProjectResch\obj\Debug\YearsProjectResch.pdb
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\YearsProjectResch.exe.config
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\YearsProjectResch.exe
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\YearsProjectResch.pdb
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Azure.Core.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Azure.Identity.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Buffers.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Data.SqlClient.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Memory.Data.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Memory.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Numerics.Vectors.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Security.AccessControl.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Security.Permissions.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Text.Json.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.ValueTuple.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Azure.Core.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Azure.Identity.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Buffers.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Data.SqlClient.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Memory.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Memory.Data.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Numerics.Vectors.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Security.AccessControl.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Security.Permissions.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Text.Json.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\System.ValueTuple.xml
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.AssemblyReference.cache
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.SuggestedBindingRedirects.cache
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.Africa.resources
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.Asia.resources
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.Australia.resources
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.Europe.resources
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinents.resources
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.ShowAllCountries.resources
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.North_America.resources
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.Properties.Resources.resources
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinentInfo.resources
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.South_America.resources
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.GenerateResource.cache
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CoreCompileInputs.cache
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CopyComplete
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.exe
+D:\APR Jahresprojekt\YearsProjectResch - Sicherheitskopie mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.pdb
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\YearsProjectResch.exe.config
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\YearsProjectResch.exe
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\YearsProjectResch.pdb
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Azure.Core.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Azure.Identity.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Buffers.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Data.SqlClient.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Memory.Data.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Memory.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Numerics.Vectors.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Security.AccessControl.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Security.Permissions.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Text.Json.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.ValueTuple.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Azure.Core.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Azure.Identity.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Buffers.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Data.SqlClient.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Memory.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Memory.Data.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Numerics.Vectors.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Security.AccessControl.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Security.Permissions.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Security.Principal.Windows.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Text.Encodings.Web.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Text.Json.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\System.ValueTuple.xml
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.AssemblyReference.cache
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.SuggestedBindingRedirects.cache
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.Africa.resources
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.Asia.resources
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.Australia.resources
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.Europe.resources
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinents.resources
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.ShowAllCountries.resources
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.North_America.resources
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.Properties.Resources.resources
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.ShowContinentInfo.resources
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.South_America.resources
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.GenerateResource.cache
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CoreCompileInputs.cache
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.csproj.CopyComplete
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.exe
+D:\APR Jahresprojekt\YearsProjectResch - Funktioniert und mit Klasse\YearsProjectResch\obj\Debug\YearsProjectResch.pdb
