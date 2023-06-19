@@ -1,0 +1,2 @@
+# LuggisYearsAndAssistanceProject_Abgabe
+Luggis Jahresprojekt and Mitarbeitsprojekt
