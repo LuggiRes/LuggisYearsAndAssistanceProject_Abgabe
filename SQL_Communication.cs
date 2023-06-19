@@ -14,6 +14,7 @@ namespace YearsProjectResch
     public class SQL_Communication
     {
         #region Variables
+        //here are just the variables
         public static string databasen = "Continents";
         public static SqlConnection conn = new SqlConnection("server = (localdb)\\MSSQLLocalDB; integrated security = true;");
         public static SqlCommand cmmd = new SqlCommand("", conn);

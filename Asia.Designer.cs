@@ -38,7 +38,7 @@
             this.flp_Asia.Location = new System.Drawing.Point(12, 61);
             this.flp_Asia.Margin = new System.Windows.Forms.Padding(5);
             this.flp_Asia.Name = "flp_Asia";
-            this.flp_Asia.Size = new System.Drawing.Size(1479, 518);
+            this.flp_Asia.Size = new System.Drawing.Size(1372, 440);
             this.flp_Asia.TabIndex = 2;
             // 
             // btnBackToContinents
@@ -57,7 +57,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1534, 617);
+            this.ClientSize = new System.Drawing.Size(1420, 523);
             this.Controls.Add(this.flp_Asia);
             this.Controls.Add(this.btnBackToContinents);
             this.Font = new System.Drawing.Font("Roboto Light", 12F, System.Drawing.FontStyle.Italic);

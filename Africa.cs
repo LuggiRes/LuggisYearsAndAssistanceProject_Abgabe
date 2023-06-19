@@ -79,8 +79,8 @@ namespace YearsProjectResch
                         Button b = new Button();
                         b.Name = SQL_Communication.dr[1].ToString();
                         b.Text = b.Name;
-                        b.Width = 180;
-                        b.Height = 50;
+                        b.Width = 220;
+                        b.Height = 80;
                         b.Tag = SQL_Communication.dr[0].ToString();//here I use the ID of my Table and use the datareader to get it, because I need that later on
                         b.Click += button_Click;  //here I get to my button click event
                         flp_Africa.Controls.Add(b); //here I add the button to my FlowLayoutPanel which I have manually created
